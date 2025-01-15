@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 class Checkbook:
     def __init__(self, initial_balance=0.0):
         self.balance = initial_balance
